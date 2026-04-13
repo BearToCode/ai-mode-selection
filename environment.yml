@@ -9,5 +9,5 @@ dependencies:
   - scikit-learn
   - scipy
   - shap
-  - tensorflow
   - xgboost
+  - imbalanced-learn
